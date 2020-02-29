@@ -18,4 +18,4 @@ for x in refugee_14.values():
 
 #Function to extract refugee population.
 for x,y in refugee_14.items():
-    print(x,"has",y, "refugees" )
+    print(x,"had",y, "refugees in 2014" )
